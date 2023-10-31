@@ -1,8 +1,8 @@
 //# 1️⃣ Desafio Classificador de nível de Herói
 
 let heroi = "Brunão"
-let xp = 2000
-var nivel;
+let xp = 8000
+let nivel
 
 if (xp <=1000) {
     nivel = "Ferro";
